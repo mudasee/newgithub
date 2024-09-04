@@ -1,0 +1,2 @@
+‘fatal: refusing to merge unrelated histories’
+This error occurs when a developer attempts to combine two unrelated projects into a single branch. This issue occurs when the branch contains inconsistent commit histories and tags with the pull request and clone.
